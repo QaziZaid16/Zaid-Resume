@@ -1,0 +1,40 @@
+     body {
+            font-family: Arial, sans-serif;
+            width: 800px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #f4f4f4;
+            color: #000;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        h2 {
+            text-align: left;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .vertical-list {
+        color: #0066cc;
+        text-align: center;
+        }
+        .vertical-list li {
+            display: inline-block;
+            text-decoration: none;
+            margin: 10px;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
